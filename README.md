@@ -1,9 +1,3 @@
-# CRUD_Clinica-Medica
-
-Aqui está um exemplo de descrição que você pode usar para o seu projeto no GitHub:
-
----
-
 # CRUD Clínica Médica 🏥
 
 Este projeto é uma aplicação web para a gestão de clínicas médicas, desenvolvida utilizando **Node.js** com **Express** no backend, **MySQL** como banco de dados e **Sequelize** como ORM. A aplicação permite realizar operações básicas de **CRUD** (Criar, Ler, Atualizar e Deletar) para gerenciar pacientes, consultas e médicos.
@@ -42,6 +36,3 @@ Este projeto é uma aplicação web para a gestão de clínicas médicas, desenv
 ## Contribuições 🤝
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request com melhorias ou correções.
 
----
-
-Essa descrição cobre os principais aspectos do projeto e pode ser ajustada conforme as especificidades do seu projeto.
